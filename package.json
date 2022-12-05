@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "csv-streamify": "^4.0.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "prompt-sync": "^4.2.0",
+    "split": "^1.0.1"
+  }
+}
